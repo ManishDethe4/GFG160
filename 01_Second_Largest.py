@@ -1,4 +1,4 @@
-# Second Largest Element in array
+# Second Largest Element in the array
 
 class Solution:
     def getSecondLargest(self, arr):
